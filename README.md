@@ -4,6 +4,5 @@
 
 ## About this repository
 
-This was made using the tutorial : 
-https://www.techiediaries.com/laravel-8-rest-api-crud-mysql/
+This is a basic CRUD application using Laravel and MySQL
 
